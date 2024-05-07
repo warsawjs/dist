@@ -1,1 +1,1 @@
-console.log('Hello JavaScript Hotline -- by WarsawJS')
+console.log('JavaScript Hotline™ -- by WarsawJS')
